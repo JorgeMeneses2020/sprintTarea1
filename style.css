@@ -1,0 +1,23 @@
+
+#nav_bar ul{
+    width: 100%;
+    text-align: center;
+    position:fixed;
+
+}
+#nav_bar ul li{ 
+    display: inline-block;
+    list-style: none;
+    background-color: rgb(28, 28, 36);
+    color: white;
+    padding: 10px 20px;
+}
+#nav_bar ul li:hover{ 
+    display: inline-block;
+    list-style: none;
+    background-color: rgb(48, 48, 124);
+    color: white;
+    padding: 10px 20px;
+
+    
+}
